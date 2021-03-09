@@ -1,0 +1,29 @@
+{
+    "Usuarios": [
+        {
+            "Nombre": "Yael",
+            "Fecha-Nacimiento": "24/04/2001",
+            "Edad": 19
+        },
+        {
+            "Nombre": "Arturo",
+            "Fecha-Nacimiento": "24/04/1999",
+            "Edad": 20
+        },
+        {
+            "Nombre": "Jose Luis",
+            "Fecha-Nacimiento": "01/01/2000",
+            "Edad": 20
+        },
+        {
+            "Nombre": "yael",
+            "Fecha-Nacimiento": "24/4/2001",
+            "Edad": 19
+        },
+        {
+            "Nombre": "yael",
+            "Fecha-Nacimiento": "24/4/1993",
+            "Edad": 27
+        }
+    ]
+}
